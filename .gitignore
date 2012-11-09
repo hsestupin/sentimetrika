@@ -1,0 +1,14 @@
+/target
+/lib
+/classes
+/checkouts
+/shelve_ru
+/lib
+src/sentimetrika/shelve_ru
+pom.xml
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.idea/workspace.xml
