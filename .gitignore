@@ -3,7 +3,6 @@
 /classes
 /checkouts
 /shelve_ru
-/lib
 src/sentimetrika/shelve_ru
 pom.xml
 *.jar
