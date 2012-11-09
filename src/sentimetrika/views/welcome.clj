@@ -6,3 +6,5 @@
 (defpage "/welcome" []
          (common/layout
            [:p "Welcome to web"]))
+
+(defpage [:head "/"] [] "")

@@ -5,6 +5,7 @@
 /shelve_ru
 src/sentimetrika/shelve_ru
 pom.xml
+*.war
 *.jar
 *.class
 .lein-deps-sum
