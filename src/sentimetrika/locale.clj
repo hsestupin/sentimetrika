@@ -21,5 +21,3 @@
 
 (defn i18n [code]
   (loaded-property-file code))
-
-(println (i18n :contact))
